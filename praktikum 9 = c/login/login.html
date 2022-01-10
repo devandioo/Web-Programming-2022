@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <script type="text/javascript">
+        function masuk() {
+        var username = document.login.username.value;
+        var password = document.login.password.value;
+        if (username == "devandio" && password == "TI10") {
+        alert("Login Sukses");
+        window.open("sukseslogin.html")
+        return false;
+        }
+        else {
+        alert("Login Gagal");
+        }
+        }
+    </script>
+</head>
+<body>
+    <table style="border: 1px solid black" align="center" >
+    <td>
+        <H2 align = "center">login</H2> <br>
+        <form name="login" method="post">
+        USERNAME : <input type="text" name="username" placeholder="Username">
+        <br> <br> <br> 
+        PASSWORD : <input type="password" name="password" placeholder="Password">
+        <br> <br> <br>
+        <input type="submit" name="submit" onclick="masuk()" value="Login" align = "center ">
+        </form>
+    </td>
+    </table>
+    <br><br><br><br><br>
+    <h4>username : devandio</h4>
+    <h4>pasword  : TI10</h4>
+    
+</body>
+</html>

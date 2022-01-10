@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Image Picker </title>
+</head>
+<body>
+    <style>
+        *{
+            background-color: rgb(236, 135, 135);
+            margin-top: auto;
+            align-items: center;
+            text-align: center;
+            border-style: ;
+        }
+    </style>
+    <select name="" id="daftar" onchange="tampil()">
+        <option value="">-Pilih Gambar Hewan-</option>
+        <option value="Buaya">Buaya</option>
+        <option value="Anjing">Anjing</option>
+        <option value="Gorilla">Gorilla</option>
+        <option value="singa">Singa</option>
+        <option value="Paus">Paus Orcha</option>
+        <option value="Ular">Ular</option>
+        <option value="Rakun">Rakun</option>
+    </select> <br> <br>
+    <div id="hasil"></div>
+
+    <script>
+        let daftar = document.getElementById("daftar")
+        let hasil = document.getElementById("hasil")
+
+        function tampil(){
+            switch (daftar.value) {
+                case "Buaya":
+                hasil.innerHTML = '<img src="img/buaya.png" alt="">'
+                alert("ini adalah gambar Buaya")
+                break;
+
+                case "Anjing":
+                hasil.innerHTML = '<img src="img/dog.png" alt="">'
+                alert("ini adalah gambar Anjing")
+                break;
+
+                case "Gorilla":
+                hasil.innerHTML = '<img src="img/gorilla.png" alt="">'
+                alert("ini adalah gambar Gorilla")
+                break;
+
+                case "singa":
+                hasil.innerHTML = '<img src="img/lion.png" alt="">'
+                alert("ini adalah gambar Singa")
+                break;
+
+                case "Paus":
+                hasil.innerHTML = '<img src="img/orcahale.png" alt="">'
+                alert("ini adalah gambar Paus Orcha")
+                break;
+
+                case "Ular":
+                hasil.innerHTML = '<img src="img/snake.png" alt="">'
+                alert("ini adalah gambar Ular")
+                break;
+
+                case "Rakun":
+                hasil.innerHTML = '<img src="racoon.png" alt="">'
+                alert("ini adalah gambar Rakun")
+                break;
+
+                default:
+                    hasil.innerHTML =""
+            }
+        }
+    </script>
+</body>
+</html>
