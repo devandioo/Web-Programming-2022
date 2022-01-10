@@ -1,0 +1,27 @@
+Jenis – Jenis Web Hosting
+Setelah membahas mengenai beberapa fungsi yang dimiliki, selanjutnya masuk pada topik tentang jenis – jenis dari web hosting. 
+
+1. Cloud Based Hosting
+Cloud based hosting merupakan paket yang saat ini paling banyak diminati karena tidak memiliki downtime. Cloud hosting menggunakan sekelompok server dengan file dan resource yang direplikasi pada setiap server. Jadi, ketika salah satu server anda sibuk, maka otomatis trafik situs anda akan di-route menuju server yang lain dalam suatu klaster.
+
+2. Dedicated Hosting
+Dedicated hosting merupakan paket server yang menawarkan kontrol maksimal atas layanan hosting yang digunakan pada website anda. Untuk penggunaannya sendiri cukup fleksibel, selain juga mampu mengoperasikan antara sistem operasi dengan software yang akan digunakan.
+
+3. Shared Hosting
+Shared hosting adalah jenis paket hosting tradisional yang membagi satu server untuk beberapa user berbeda, sesuai dengan kebutuhan server. Kelebihan dari layanan ini adalah harganya yang terjangkau dan sangat cocok untuk menjalankan website sederhana atau situs blog.
+
+4. VPS Hosting
+Virtual Private Server atau VPS hosting adalah perpaduan atau titik tengah antara dedicated dan Cloud hosting. Dimana, pengguna dapat menggunakan fungsi yang mirip dengan dedicated server dengan harga sama dengan paket cloud hosting. VPS hosting sangat cocok digunakan untuk kebutuhan website yang mempunyai traffic yang tinggi.
+
+5. WordPress Hosting
+Dan jenis yang terakhir adalah WordPress hosting, merupakan bentuk lain dari paket shared hosting yang dirancang khusus untuk pengguna WordPress. Server ini telah dilengkapi dengan fitur pre-installed plugin dengan konfigurasi yang cukup optimal. Paket ini juga biasanya menyediakan fitur tambahan seperti tema, pre-designed, drag-and-drop page builder, serta tool developer yang lebih spesifik.
+
+Cara Kerja
+Cara kerja dari paket hosting dimulai dari sebuah perusahaan layanan hosting yang menyediakan ruang server yang menyimpan aset dan data untuk kebutuhan website. Ketika ada user yang menuliskan nama domain website di browser, maka host tersebut akan mengirimkan file yang diperlukan untuk mengakses website tersebut. 
+
+Tentunya dalam pemakaian hosting juga membayar biaya sewa setiap bulannya. Jika anda membayar tepat waktu, maka layanan server akan selalu mudah untuk diakses dan dapat berfungsi dengan baik tanpa ada gangguan terkait koneksi dan sebagainya.
+
+Kesimpulan
+Hosting adalah sistem layanan online untuk mengelola sebuah situs oleh pengguna untuk ditampilkan melalui media internet. 
+Fungsi utama dari penggunaan hosting adalah mampu mengembangkan berbagai website, membuat email profesional, dan melindungi situs dengan bantuan SSL.
+Terdapat beberapa jenis web hosting, diantaranya adalah cloud based, dedicated, shared, VPS, dan WordPress hosting.
